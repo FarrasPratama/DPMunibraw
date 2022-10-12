@@ -1,8 +1,8 @@
 <?php include_once('layouts/master.php');
 include_once('koneksi.php');
 ?>
-<div class="container-fluid header p-0 mb-5 jumbotrondepan" style="background-image: url('assets/aspirasi.png');background-size: cover;height:700px;background-position: bottom;">
-    <div class="row g-0 align-items-center flex-column-reverse flex-lg-row" style="padding-top: 50px">
+<div class="container-fluid header p-0 mb-5 jumbotrondepan" style="background-image: url('assets/line_143836633524607.jpg');background-size: cover;height:700px;background-position: bottom;">
+    <div class="row g-0 align-items-center flex-column-reverse flex-lg-row" style="padding-top: 50px;">
         <div class="col-lg-12 p-5 wow fadeIn" data-wow-delay="0.1s">
             <h2 class="display-5 mb-5 mt-5 text-center text-white">Selamat Datang di Kanal Aspirasi</h2>
             <p class="text-white text-center" style="font-size: 15pt">

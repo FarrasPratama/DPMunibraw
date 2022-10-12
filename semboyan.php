@@ -11,12 +11,12 @@
                 <div class="row mb-5">
                     <div class="col-md-12">
                         <div class="titlepage">
-                            <h4 class="bawahvisimisi">Misi</h4>
+                            <h4 class="bawahvisimisi">Semboyan</h4>
                             <br>
                         </div>
                     </div>
                 </div>
-                <p class="text-justify">Visi Fakultas Hukum Universitas Brawijaya adalah untuk menjadi Fakultas Hukum unggul yang berstandar Internasional untuk menghasilkan lulusan berkemampuan akademis, profesional, humanis, etis dan religious</p>
+                <p class="text-justify">Pandita Nawasena : orang yang arif bijaksana dan dapat memberikan masa depan yang cerah</p>
             </div>
             <div class="col-md-6">
                 <img src="assets/visi.jpg" style="object-fit:cover;height:300px;width:100%;border-radius: 25px">

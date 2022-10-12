@@ -5,6 +5,11 @@
 
 .tekskuning {
     color: #e8b643;
+    font-weight: 500;
+}
+
+.tekshitam {
+    color: white;
 }
 
 .kuning:hover {
@@ -236,10 +241,16 @@ a {
 
 .smaller {
     width: 100%;
-    height: 95px;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.99), transparent);
+    height: 110px;
     position: absolute;
     bottom: 0;
     text-align: center;
     color: white;
+    background-color: white;
+    padding-top: 10px;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.99), transparent);
+}
+
+.img-fluid {
+    background-color: white;
 }

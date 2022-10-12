@@ -14,7 +14,7 @@
                         <br>
                     </div>
                 </div>
-                <p class="text-justify">Visi Fakultas Hukum Universitas Brawijaya adalah untuk menjadi Fakultas Hukum unggul yang berstandar Internasional untuk menghasilkan lulusan berkemampuan akademis, profesional, humanis, etis dan religious</p>
+                <p class="text-justify">Terwujudnya DPM UB sebagai tuas legislatif yang menjalankan tugas dan wewenangnya secara optimal guna memberikan kebermanfaatan secara ekstensif bagi Brawijaya</p>
             </div>
             <div class="col-md-6">
                 <img src="assets/visi.jpg" style="object-fit:cover;height:300px;width:100%;border-radius: 25px">
@@ -33,30 +33,11 @@
                     </div>
                 </div>
                 <ol>
-                    <li>Menyelenggarakan pendidikan hukum yang dapat mengembangkan penalaran dan kemampuan profesional di bidang hukum.</li>
-                    <li>Menyelenggarakan penelitian dan pengkajian perkembangan ilmu hukum.</li>
-                    <li>Menyelenggarakan pengabdian kepada masyarakat berdasarkan hasil pendidikan dan penelitian.</li>
+                    <li>Mengoptimalkan hubungan kelembagaan LKM UB secara sinergis guna terciptanya Good Student Governance.</li>
+                    <li>Pembaharuan dan perencanaan produk hukum strategis yang berorientasi pada kebutuhan mahasiswa Universitas Brawijaya</li>
+                    <li>Memberikan pelayanan yang proaktif , responsif, inklusif, dan akuntabel guna terciptanya service excellent</li>
+                    <li>Melaksanakan fungsi pengawasan yang menyeluruh secara objektif, partisipatif, dan intensif terhadap EM UB</li>
                 </ol>
-            </div>
-        </div>
-        <br><br>
-        <div class="row mb-3">
-            <div class="col-md-6">
-                <div class="row mb-5">
-                    <div class="titlepage">
-                        <h4 class="bawahvisimisi">Tujuan</h4>
-                        <br>
-                    </div>
-                </div>
-                <p class="text-justify">Tujuan Fakultas Hukum Universitas Brawijaya adalah menghasilkan sarjana hukum yang memiliki kemampuan :</p>
-                <ol>
-                    <li>Memahami asas-asas hukum, dogmatik hukum dan memiliki ketrampilan dasar penelitian dogmatik hukum.</li>
-                    <li>Menerapkan asas dan dogmatik hukum dalam menangani masalah-masalah hukum secara professional.</li>
-                    <li>Bersikap dan berperilaku humanis, etis dan religus.</li>
-                </ol>
-            </div>
-            <div class="col-md-6">
-                <img src="assets/tujuan.jpg" style="object-fit:cover;height:300px;width:100%;border-radius: 25px">
             </div>
         </div>
         <br><br>

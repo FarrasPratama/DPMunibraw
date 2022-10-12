@@ -488,7 +488,7 @@
     color: #FFFFFF;
     font-size: 15px;
     font-weight: normal;
-    text-transform: capitalize;
+    text-transform: none;
     transition: .3s;
 }
 

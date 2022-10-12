@@ -3,7 +3,7 @@ include_once('koneksi.php');
 ?>
 <div class="container-fluid abstrak py-5 mb-5 wow fadeIn" data-wow-delay="0.1s">
     <div class="container py-5">
-        <h1 class="display-5 text-white text-center mb-3 animated slideInDown">Kabar DPM Unibraw</h1>
+        <h1 class="display-5 text-white text-center mb-3 animated slideInDown">Kabar DPM UB</h1>
         <br>
         <p class="text-center">
             Semua kabar berita kegiatan DPM Universitas Brawijaya terdokumentasi
