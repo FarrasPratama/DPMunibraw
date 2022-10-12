@@ -14,7 +14,7 @@ include_once('koneksi.php');
     </div>
 </div> -->
 <div class="container-fluid header p-0 jumbotrondepan" style="background-image: url('assets/aspirasi.png');background-size: cover;height:700px;background-position: bottom;">
-    <div class="row g-0 align-items-center flex-column-reverse flex-lg-row" style="padding-top: 75px">
+    <div class="row g-0 align-items-center flex-column-reverse flex-lg-row" style="padding-top: 50px">
         <div class="col-lg-12 p-5 wow fadeIn" data-wow-delay="0.1s">
             <h2 class="display-5 mb-5 mt-5 text-center text-white">Selamat Datang di Kanal Aspirasi</h2>
             <p class="text-white text-center" style="font-size: 15pt">
@@ -27,10 +27,10 @@ include_once('koneksi.php');
             <center>
                 <div class="row justify-content-center mt-3">
                     <div class="col-md-4 mt-3">
-                        <a class="btn btn-info text-white text-center btn-lg kuning" style="padding: 10px 75px;background-color:#e8b643;border-color: #e8b643;display: inline-block;" href="kanalaspirasi.php">Kirim Aspirasi</a>
+                        <a class="btn btn-info text-white text-center btn-lg kuning" style="padding: 10px 50px;background-color:#e8b643;border-color: #e8b643;display: inline-block;" href="kanalaspirasi.php">Kirim Aspirasi</a>
                     </div>
                     <div class="col-md-4 mt-3">
-                        <a class="btn btn-outline-danger text-white text-center btn-lg" style="padding: 10px 75px;display: inline-block;" href="kanalaspirasicari.php">Cek Status Aspirasi</a>
+                        <a class="btn btn-outline-danger text-white text-center btn-lg" style="padding: 10px 50px;display: inline-block;" href="kanalaspirasicari.php">Cek Status Aspirasi</a>
                     </div>
                 </div>
             </center>

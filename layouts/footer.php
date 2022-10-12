@@ -42,24 +42,13 @@
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
 <script>
    $('#carouselExample').on('slide.bs.carousel', function(e) {
-
-      /*
-
-      CC 2.0 License Iatek LLC 2018
-      Attribution required
-
-      */
-
-
       var $e = $(e.relatedTarget);
       var idx = $e.index();
       var itemsPerSlide = 7;
       var totalItems = $('.carousel-item').length;
-
       if (idx >= totalItems - (itemsPerSlide - 1)) {
          var it = itemsPerSlide - (totalItems - idx);
          for (var i = 0; i < it; i++) {
-            // append slides to end
             if (e.direction == "left") {
                $('.carousel-item').eq(i).appendTo('.carousel-inner');
             } else {
@@ -67,6 +56,19 @@
             }
          }
       }
+   });
+
+   $(document).ready(function() {
+      $("#news-slider").owlCarousel({
+         items: 3,
+         itemsDesktop: [1199, 3],
+         itemsDesktopSmall: [980, 2],
+         itemsMobile: [600, 1],
+         navigation: true,
+         navigationText: ["", ""],
+         pagination: true,
+         autoPlay: true
+      });
    });
 </script>
 </body>

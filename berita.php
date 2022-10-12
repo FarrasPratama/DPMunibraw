@@ -83,38 +83,32 @@ include_once('koneksi.php');
                         </div>
                     </div>
                 </div> -->
-                <div id="multi-item-example" class="carousel slide carousel-multi-item mb-5" data-ride="carousel">
+                <div id="multi-item-example" class="carousel slide carousel-multi-item" data-ride="carousel">
 
-                    <!--Controls-->
-                    <!-- <div class="controls-top">
-                        <a class="btn-floating" href="#multi-item-example" data-slide="prev"><i class="fa fa-chevron-left"></i></a>
-                        <a class="btn-floating" href="#multi-item-example" data-slide="next"><i class="fa fa-chevron-right"></i></a>
-                    </div> -->
-                    <!--/.Controls-->
                     <center>
                         <div class="carousel-inner">
                             <div class="carousel-item active">
                                 <div class="row justify-content-around">
-                                    <div class="col-md-2 col-lg-2 col-sm-4 col-xs-4 col-4 col-lg-2 col-xl-2 col-xxl-2 product-filters">
+                                    <div class="col-md-2 col-lg-2 col-sm-12 col-xs-12 col-12 mb-5 col-lg-2 col-xl-2 col-xxl-2 product-filters">
                                         <li data-filter=".Kampus, .Lomba, .Kegiatan, .Pembangunan, .Kunjungan" class="btn btn-outline-danger active">Semua</li>
                                     </div>
-                                    <div class="col-md-2 col-lg-2 col-sm-4 col-xs-4 col-4 col-lg-2 col-xl-2 col-xxl-2 product-filters">
+                                    <div class="col-md-2 col-lg-2 col-sm-12 col-xs-12 col-12 mb-5 col-lg-2 col-xl-2 col-xxl-2 product-filters">
                                         <li data-filter=".Kampus" class="btn btn-outline-danger">Kampus</li>
                                     </div>
-                                    <div class="col-md-2 col-lg-2 col-sm-4 col-xs-4 col-4 col-lg-2 col-xl-2 col-xxl-2 product-filters">
+                                    <div class="col-md-2 col-lg-2 col-sm-12 col-xs-12 col-12 mb-5 col-lg-2 col-xl-2 col-xxl-2 product-filters">
                                         <li data-filter=".Kegiatan" class="btn btn-outline-danger">Kegiatan</li>
                                     </div>
                                 </div>
                             </div>
                             <div class="carousel-item">
                                 <div class="row justify-content-around">
-                                    <div class="col-md-2 col-lg-2 col-sm-4 col-xs-4 col-4 col-lg-2 col-xl-2 col-xxl-2 product-filters">
+                                    <div class="col-md-2 col-lg-2 col-sm-12 col-xs-12 col-12 mb-5 col-lg-2 col-xl-2 col-xxl-2 product-filters">
                                         <li data-filter=".Lomba" class="btn btn-outline-danger">Lomba</li>
                                     </div>
-                                    <div class="col-md-2 col-lg-2 col-sm-4 col-xs-4 col-4 col-lg-2 col-xl-2 col-xxl-2 product-filters">
+                                    <div class="col-md-2 col-lg-2 col-sm-12 col-xs-12 col-12 mb-5 col-lg-2 col-xl-2 col-xxl-2 product-filters">
                                         <li data-filter=".Pembangunan" class="btn btn-outline-danger">Pembangunan</li>
                                     </div>
-                                    <div class="col-md-2 col-lg-2 col-sm-4 col-xs-4 col-4 col-lg-2 col-xl-2 col-xxl-2 product-filters">
+                                    <div class="col-md-2 col-lg-2 col-sm-12 col-xs-12 col-12 mb-5 col-lg-2 col-xl-2 col-xxl-2 product-filters">
                                         <li data-filter=".Kunjungan" class="btn btn-outline-danger">Kunjungan</li>
                                     </div>
                                 </div>
