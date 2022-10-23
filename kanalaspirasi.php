@@ -47,7 +47,7 @@ include_once('koneksi.php');
                 </div>
                 <div class="col-md-6 mb-4">
                     <div class="form-group">
-                        <label class="form-label">Jurusan <span class="text-danger">*</span></label>
+                        <label class="form-label">Fakultas <span class="text-danger">*</span></label>
                         <select type="text" class="form-control" name="jurusan" required>
                             <option value="Jurusan Teknik Informatika">Jurusan Teknik Informatika</option>
                             <option value="Jurusan Teknik Mesin">Jurusan Teknik Mesin</option>

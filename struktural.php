@@ -150,32 +150,6 @@
                 <div class="position-relative rounded overflow-hidden">
                     <div class="bigger">
                         <div class="overflow-hidden">
-                            <img class="img-fluid" src="BPH/KOMINFO/Fatia NF/1.png" alt="" width="100%" style="object-fit:cover;height:400px;">
-                        </div>
-                        <div class="smaller">
-                            <h3 class="text-center text-white">Fatia N. F.</h3>
-                            <p class="text-center tekskuning">Kominfo<br>n/a</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 col-xs-6 col-sm-6 col-6 wow fadeInUp" data-wow-delay="0.1s">
-                <div class="position-relative rounded overflow-hidden">
-                    <div class="bigger">
-                        <div class="overflow-hidden">
-                            <img class="img-fluid" src="BPH/KOMINFO/Indira Putri Maharani_FH_2020/2.png" alt="" width="100%" style="object-fit:cover;height:400px;">
-                        </div>
-                        <div class="smaller">
-                            <h3 class="text-center text-white">Indira Putri M.</h3>
-                            <p class="text-center tekskuning">Kominfo<br>FH 2020</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-3 col-xs-6 col-sm-6 col-6 wow fadeInUp" data-wow-delay="0.1s">
-                <div class="position-relative rounded overflow-hidden">
-                    <div class="bigger">
-                        <div class="overflow-hidden">
                             <img class="img-fluid" src="BPH/KOMISI 1/Hotijeh_Teknik_19_Ketua Komisi 1/Tije 1_Rev.jpg" alt="" width="100%" style="object-fit:cover;height:400px;">
                         </div>
                         <div class="smaller">
