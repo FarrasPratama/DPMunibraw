@@ -7,6 +7,7 @@
    <meta name="viewport" content="width=device-width, initial-scale=1">
    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
    <title>Dewan Perwakilan Mahasiswa Unibraw</title>
+   <link rel="icon" type="image/x-icon" href="foto/logo.ico">
    <meta name="keywords" content="">
    <meta name="description" content="">
    <meta name="author" content="">
