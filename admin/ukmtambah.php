@@ -34,7 +34,8 @@ include 'header.php'; ?>
                                 <option value="Olahraga">Olahraga</option>
                                 <option value="Penalaran">Penalaran</option>
                                 <option value="Kesenian">Kesenian</option>
-                                <option value="Kesehjateraan Mahasiswa">Kesehjateraan Mahasiswa</option>
+                                <option value="Khusus">Khusus</option>
+                                <option value="Kesehjateraan Mahasiswa">Kerohanian</option>
                             </select>
                         </div>
                         <div class="form-group mb-3">

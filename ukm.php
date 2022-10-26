@@ -119,7 +119,7 @@ include_once('koneksi.php');
             <?php endwhile; ?>
         </div>
         <br><br>
-        <h4 class="bawahvisimisi">Minat Kesehjateraan Mahasiswa</h4>
+        <h4 class="bawahvisimisi">Minat Kerohanian</h4>
         <div class="row mt-5">
             <?php
             $result = $conn->query("SELECT * FROM ukm where kategori = 'Kesehjateraan Mahasiswa' order by id desc");

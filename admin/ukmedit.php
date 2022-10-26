@@ -37,7 +37,8 @@ $data = $ambildata->fetch_assoc();
                                 <option <?php if ($data['kategori'] == 'Olahraga') echo 'selected'; ?> value="Olahraga">Olahraga</option>
                                 <option <?php if ($data['kategori'] == 'Penalaran') echo 'selected'; ?> value="Penalaran">Penalaran</option>
                                 <option <?php if ($data['kategori'] == 'Kesenian') echo 'selected'; ?> value="Kesenian">Kesenian</option>
-                                <option <?php if ($data['kategori'] == 'Kesehjateraan Mahasiswa') echo 'selected'; ?> value="Kesehjateraan Mahasiswa">Kesehjateraan Mahasiswa</option>
+                                <option <?php if ($data['kategori'] == 'Khusus') echo 'selected'; ?> value="Kesenian">Khusus</option>
+                                <option <?php if ($data['kategori'] == 'Kesehjateraan Mahasiswa') echo 'selected'; ?> value="Kesehjateraan Mahasiswa">Kerohanian</option>
                             </select>
                         </div>
                         <div class="row">

@@ -75,7 +75,7 @@ if ($datahasil['judul'] == 'AIESEC') {
                             <h4 class="bawahvisimisi">Tentang Kami</h4>
                             <br>
                         </div>
-                        <img src="assets/tujuan.jpg" style="object-fit:cover;height:300px;width:100%;border-radius: 25px">
+                        <img src="foto/<?= $data['foto'] ?>" alt="" style="object-fit:cover;height:300px;width:100%;border-radius: 25px">
                     </div>
                     <?= $data['isi'] ?>
                     <br>
@@ -114,8 +114,7 @@ if ($datahasil['judul'] == 'AIESEC') {
                             <img class="img-fluid" src="assets/diskusi.jpg" alt="" width="100%" style="object-fit:cover;height:400px;">
                         </div>
                         <div class="smaller">
-                            <h3 class="text-center text-white">Latihan harian
-                                softball UB</h3>
+                            <h3 class="text-center text-white">Latihan harian softball UB</h3>
                         </div>
                     </div>
                 </div>
@@ -127,8 +126,7 @@ if ($datahasil['judul'] == 'AIESEC') {
                             <img class="img-fluid" src="assets/diskusi.jpg" alt="" width="100%" style="object-fit:cover;height:400px;">
                         </div>
                         <div class="smaller">
-                            <h3 class="text-center text-white">Latihan harian
-                                softball UB</h3>
+                            <h3 class="text-center text-white">Latihan harian softball UB</h3>
                         </div>
                     </div>
                 </div>
@@ -140,8 +138,7 @@ if ($datahasil['judul'] == 'AIESEC') {
                             <img class="img-fluid" src="assets/diskusi.jpg" alt="" width="100%" style="object-fit:cover;height:400px;">
                         </div>
                         <div class="smaller">
-                            <h3 class="text-center text-white">Latihan harian
-                                softball UB</h3>
+                            <h3 class="text-center text-white">Latihan harian softball UB</h3>
                         </div>
                     </div>
                 </div>

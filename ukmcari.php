@@ -33,7 +33,7 @@ include_once('koneksi.php');
         <div class="row">
             <?php
             $keyword = $_POST['keyword'];
-            $result = $conn->query("SELECT * FROM ukm where judul like '$keyword%' order by id desc");
+            $result = $conn->query("SELECT * FROM ukm where judul like '$keyword' order by id desc");
             $cek = $result->fetch_assoc();
             if (!empty($cek)) {
                 while ($data = $result->fetch_array()) :
