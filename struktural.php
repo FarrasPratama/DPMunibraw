@@ -85,7 +85,7 @@
                 <div class="position-relative rounded overflow-hidden">
                     <div class="bigger">
                         <div class="overflow-hidden">
-                            <img class="img-fluid" src="BPH/BADAN ADVOKASI/R.M Agung Y._FIA_2019_BADVO/IMG_4066.HEIC" alt="" width="100%" style="object-fit:cover;height:400px;">
+                            <img class="img-fluid" src="BPH/BADAN ADVOKASI/R.M Agung Y._FIA_2019_BADVO/5. Agung Yudistira_Ketua Badan Advokasi_FIA 2019.png" alt="" width="100%" style="object-fit:cover;height:400px;">
                         </div>
                         <div class="smaller">
                             <h3 class="text-center text-white">R.M Agung Y.</h3>
@@ -98,7 +98,7 @@
                 <div class="position-relative rounded overflow-hidden">
                     <div class="bigger">
                         <div class="overflow-hidden">
-                            <img class="img-fluid" src="BPH/BADAN HUMAS DAN KELEMBAGAAN/Chandra Pramana Aldiputra_FP_Bahum/IMG_9161.HEIC" alt="" width="100%" style="object-fit:cover;height:400px;">
+                            <img class="img-fluid" src="BPH/BADAN HUMAS DAN KELEMBAGAAN/Chandra Pramana Aldiputra_FP_Bahum/6. Chandra Pramana Aldiputra_Ketua Badan Humas dan Kelembagaan_FP 2019.png" alt="" width="100%" style="object-fit:cover;height:400px;">
                         </div>
                         <div class="smaller">
                             <h3 class="text-center text-white">Chandra Pramana Aldiputra</h3>
@@ -124,7 +124,7 @@
                 <div class="position-relative rounded overflow-hidden">
                     <div class="bigger">
                         <div class="overflow-hidden">
-                            <img class="img-fluid" src="BPH/BADAN LEGISLASI/Ishom Avenzour Ardjawinata/IMG_9175.HEIC" alt="" width="100%" style="object-fit:cover;height:400px;">
+                            <img class="img-fluid" src="BPH/BADAN LEGISLASI/Ishom Avenzour Ardjawinata/8. Ishom Avenzour Ardjawinata_Ketua Badan Legislasi_FTP 2019.png" alt="" width="100%" style="object-fit:cover;height:400px;">
                         </div>
                         <div class="smaller">
                             <h3 class="text-center text-white">Ishom Avenzour A.</h3>
@@ -150,11 +150,11 @@
                 <div class="position-relative rounded overflow-hidden">
                     <div class="bigger">
                         <div class="overflow-hidden">
-                            <img class="img-fluid" src="BPH/KOMISI 1/Hotijeh_Teknik_19_Ketua Komisi 1/Tije 1_Rev.jpg" alt="" width="100%" style="object-fit:cover;height:400px;">
+                            <img class="img-fluid" src="BPH/KOMISI 1/Hotijeh_Teknik_19_Ketua Komisi 1/10. Hotijeh_Ketua Komisi I_FT 2019.png" alt="" width="100%" style="object-fit:cover;height:400px;">
                         </div>
                         <div class="smaller">
                             <h3 class="text-center text-white">Hotijeh</h3>
-                            <p class="text-center tekskuning">Ketua Komisi 1<br>n/a</p>
+                            <p class="text-center tekskuning">Ketua Komisi 1<br>FT 2019</p>
                         </div>
                     </div>
                 </div>
@@ -163,7 +163,7 @@
                 <div class="position-relative rounded overflow-hidden">
                     <div class="bigger">
                         <div class="overflow-hidden">
-                            <img class="img-fluid" src="BPH/KOMISI 1/Nona Maharani Al Fariza_FIKES_2020_Anggota Komisi 1/Nona 1_20220219_174839.jpg" alt="" width="100%" style="object-fit:cover;height:400px;">
+                            <img class="img-fluid" src="BPH/KOMISI 1/Nona Maharani Al Fariza_FIKES_2020_Anggota Komisi 1/11. Nona Maharani Al Fariza_Anggota Komisi I_FIKES 2020.png" alt="" width="100%" style="object-fit:cover;height:400px;">
                         </div>
                         <div class="smaller">
                             <h3 class="text-center text-white">Nona Maharani A. F.</h3>
@@ -176,11 +176,11 @@
                 <div class="position-relative rounded overflow-hidden">
                     <div class="bigger">
                         <div class="overflow-hidden">
-                            <img class="img-fluid" src="BPH/KOMISI 2/Muhammad Wafa Zidniilman_Ketua Komisi 2/S__30367749.jpg" alt="" width="100%" style="object-fit:cover;height:400px;">
+                            <img class="img-fluid" src="BPH/KOMISI 2/Muhammad Wafa Zidniilman_Ketua Komisi 2/12. Muhammad Wafa Zidniilman_Ketua Komisi II_FEB 2019.png" alt="" width="100%" style="object-fit:cover;height:400px;">
                         </div>
                         <div class="smaller">
-                            <h3 class="text-center text-white">Muhammad Wafa Zidniilman</h3>
-                            <p class="text-center tekskuning">Ketua Komisi 2<br>n/a</p>
+                            <h3 class="text-center text-white">Muhammad Wafa Z.</h3>
+                            <p class="text-center tekskuning">Ketua Komisi 2<br>FEB 2019</p>
                         </div>
                     </div>
                 </div>
@@ -189,7 +189,7 @@
                 <div class="position-relative rounded overflow-hidden">
                     <div class="bigger">
                         <div class="overflow-hidden">
-                            <img class="img-fluid" src="BPH/KOMISI 2/ABDUL HUSYAIN_FAPET_2020_ANGGOTA KOMISI/IMG_5901.JPG" alt="" width="100%" style="object-fit:cover;height:400px;">
+                            <img class="img-fluid" src="BPH/KOMISI 2/ABDUL HUSYAIN_FAPET_2020_ANGGOTA KOMISI/13. Abdul Husyain_Anggota Komisi II_FAPET 2020.png" alt="" width="100%" style="object-fit:cover;height:400px;">
                         </div>
                         <div class="smaller">
                             <h3 class="text-center text-white">Abdul Husyain</h3>
@@ -202,7 +202,7 @@
                 <div class="position-relative rounded overflow-hidden">
                     <div class="bigger">
                         <div class="overflow-hidden">
-                            <img class="img-fluid" src="BPH/KOMISI 3/Ali Zainal Abidin_FPIK_2019_Ketua Komisi 3/Ali Zainal Abidin_FPIK_2019_Ketua Komisi 3(2).jpg" alt="" width="100%" style="object-fit:cover;height:400px;">
+                            <img class="img-fluid" src="BPH/KOMISI 3/Ali Zainal Abidin_FPIK_2019_Ketua Komisi 3/14. Ali Zainal Abidin_Ketua Komisi III_FPIK 2019.png" alt="" width="100%" style="object-fit:cover;height:400px;">
                         </div>
                         <div class="smaller">
                             <h3 class="text-center text-white">Ali Zainal</h3>
@@ -228,7 +228,7 @@
                 <div class="position-relative rounded overflow-hidden">
                     <div class="bigger">
                         <div class="overflow-hidden">
-                            <img class="img-fluid" src="BPH/KOMISI 4/Risa umami_Fmipa_2020_Ketua komisi  4/IMG_20220220_145859.jpg" alt="" width="100%" style="object-fit:cover;height:400px;">
+                            <img class="img-fluid" src="BPH/KOMISI 4/Risa umami_Fmipa_2020_Ketua komisi  4/16. Risa Umami_Ketua Komisi IV_FMIPA 2020.png" alt="" width="100%" style="object-fit:cover;height:400px;">
                         </div>
                         <div class="smaller">
                             <h3 class="text-center text-white">Risa Umami</h3>
@@ -241,7 +241,7 @@
                 <div class="position-relative rounded overflow-hidden">
                     <div class="bigger">
                         <div class="overflow-hidden">
-                            <img class="img-fluid" src="BPH/KOMISI 4/Maura Maharani Putri_FK_2020_Anggota Komisi 4/Mora 1.jpg" alt="" width="100%" style="object-fit:cover;height:400px;">
+                            <img class="img-fluid" src="BPH/KOMISI 4/Maura Maharani Putri_FK_2020_Anggota Komisi 4/17. Maura Maharani Putri_Anggota Komisi IV_FK 2020.png" alt="" width="100%" style="object-fit:cover;height:400px;">
                         </div>
                         <div class="smaller">
                             <h3 class="text-center text-white">Maura Maharani P.</h3>
