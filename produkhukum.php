@@ -9,10 +9,8 @@
         <div class="row mb-3">
             <div class="col-md-12 col-sm-12 col-lg-12 col-xs-12">
                 <div class="card border-primary mb-3 shadow">
-                    <div class="card-header">
-                        <h5 class="text-success">DETAIL PERATURAN
-                            <a class="btn btn-outline-danger float-right pull-right" style="float:right">Abstract</a>
-                        </h5>
+                    <div class="card-header bg-success">
+                        <h5 class="text-white">DETAIL PERATURAN</h5>
                     </div>
                     <div class="card-body text-primary">
                         <table class="table">
@@ -27,18 +25,10 @@
                                 </tr>
                                 <tr>
                                     <td width="200px">
-                                        Entitas
-                                    </td>
-                                    <td>
-                                        Pemerintah Pusat
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td width="200px">
                                         Nomor
                                     </td>
                                     <td>
-                                        11
+                                        1
                                     </td>
                                 </tr>
                                 <tr>
@@ -46,7 +36,7 @@
                                         Tahun
                                     </td>
                                     <td>
-                                        2020
+                                        2022
                                     </td>
                                 </tr>
                                 <tr>
@@ -54,7 +44,7 @@
                                         Judul
                                     </td>
                                     <td>
-                                        Undang - undang (UU) tentang Cipta Kerja
+                                        Undang-Undang (UU) tentang Pembentukan Perundang-Undangan
                                     </td>
                                 </tr>
                                 <tr>
@@ -62,7 +52,7 @@
                                         Ditetapkan Tanggal
                                     </td>
                                     <td>
-                                        02 November 2022
+                                        15 April 2022
                                     </td>
                                 </tr>
                                 <tr>
@@ -70,15 +60,7 @@
                                         Diundangkan Tanggal
                                     </td>
                                     <td>
-                                        02 November 2022
-                                    </td>
-                                </tr>
-                                <tr>
-                                    <td width="200px">
-                                        Berlaku Tanggal
-                                    </td>
-                                    <td>
-                                        02 November 2022
+                                        15 April 2022
                                     </td>
                                 </tr>
                             </tbody>
@@ -90,8 +72,8 @@
         <div class="row mb-3">
             <div class="col-md-12 col-sm-12 col-lg-12 col-xs-12">
                 <div class="card border-primary mb-3 shadow">
-                    <div class="card-header bg-success">
-                        <h5 class="text-white">FILE-FILE PERATURAN
+                    <div class="card-header">
+                        <h5 class="text-success">FILE-FILE PERATURAN
                         </h5>
                     </div>
                     <div class="card-body text-primary">
@@ -99,10 +81,10 @@
                             <tbody>
                                 <tr>
                                     <td>
-                                        UU_Nomor_11_Tahun_2020-compressed
+                                        UU LKM UB NOMOR 1 TAHUN 2022
                                     </td>
                                     <td>
-                                        <a href="assets/UU_Nomor_11_Tahun_2020-compressed.pdf" target="_blank"><i class="fa fa-download"></i> Download</a>
+                                        <a href="https://drive.google.com/file/d/1ubRfRD3Y4GPm7n15LhfK8JpODLvM9dVj/view?usp=sharing" target="_blank"><i class="fa fa-download"></i> Download</a>
                                     </td>
                                 </tr>
                             </tbody>
@@ -122,61 +104,439 @@
                     <div class="card-body">
                         <h6 class="text-success"></h6>
                         <p>
-                            <span class="bold text-success">Dicabut sebagian dengan :</span>
-                        <ol type="a">
-                            <li class="text-left font-sm">
-                                <span class="text-danger">UU No. 1 Tahun 2022</span> <span class="text-muted">tentang</span> <span class="text-black">Hubungan Keuangan antara Pemerintah Pusat dan Pemerintah Daerah</span>
-                                <br /><span>Pasal 114 dan Pasal 176 angka 4 ayat (4) dalam Pasal&#xD;&#xA;252 dan angka 7 Undang-Undang Nomor 11 Tahun&#xD;&#xA;2O2O tettang Cipta Kerja (Lembaran Negara Republik&#xD;&#xA;Indonesia Tahun 2O2O Nomor 245, Tambahan&#xD;&#xA;Lembaran Negara Republik Indonesia Nomor 6573)</span>
-                            </li>
-
-                        </ol>
+                            <span class="bold text-success">Disahkan</span>
                         </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="ourwork">
+    <div class="container">
+        <div class="row mb-3">
+            <div class="col-md-12 col-sm-12 col-lg-12 col-xs-12">
+                <div class="card border-primary mb-3 shadow">
+                    <div class="card-header bg-success">
+                        <h5 class="text-white">DETAIL PERATURAN</h5>
+                    </div>
+                    <div class="card-body text-primary">
+                        <table class="table">
+                            <tbody>
+                                <tr>
+                                    <td width="200px">
+                                        Jenis
+                                    </td>
+                                    <td>
+                                        Undang - undang (UU)
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="200px">
+                                        Nomor
+                                    </td>
+                                    <td>
+                                        2
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="200px">
+                                        Tahun
+                                    </td>
+                                    <td>
+                                        2022
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="200px">
+                                        Judul
+                                    </td>
+                                    <td>
+                                        Undang-Undang (UU) tentang Dewan Perwakilan Mahasiswa Universitas Brawijaya
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="200px">
+                                        Ditetapkan Tanggal
+                                    </td>
+                                    <td>
+                                        17 Mei 2022
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="200px">
+                                        Diundangkan Tanggal
+                                    </td>
+                                    <td>
+                                        17 Mei 2022
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-md-12 col-sm-12 col-lg-12 col-xs-12">
+                <div class="card border-primary mb-3 shadow">
+                    <div class="card-header">
+                        <h5 class="text-success">FILE-FILE PERATURAN
+                        </h5>
+                    </div>
+                    <div class="card-body text-primary">
+                        <table class="table">
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        UU LKM UB NOMOR 2 TAHUN 2022
+                                    </td>
+                                    <td>
+                                        <a href="https://drive.google.com/file/d/1srqvdj0-SIIkpoLSZoEpShPkrUKimSsY/view?usp=sharing" target="_blank"><i class="fa fa-download"></i> Download</a>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p class="text-danger">* Klik pada nama file untuk melakukan pratinjau atau klik pada tombol download untuk mengunduh.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-md-12 col-sm-12 col-lg-12 col-xs-12">
+                <div class="card border-primary mb-3 shadow">
+                    <div class="card-header">
+                        <h5 class="text-success">STATUS
+                        </h5>
+                    </div>
+                    <div class="card-body">
+                        <h6 class="text-success"></h6>
                         <p>
-                            <span class="bold text-success">Diubah dengan :</span>
-                        <ol type="a">
-                            <li class="text-left font-sm">
-                                <span>
-                                    <a class="text-danger" href="/Home/Details/195878/uu-no-2-tahun-2022">UU No. 2 Tahun 2022</a> <span class="text-muted">tentang</span> Perubahan Kedua atas Undang-Undang Nomor 38 Tahun 2004 tentang Jalan
-                                    <br /><span class="font-blue-oleo">Pasal 103 UU Nomor 11 Tahun 2020 menambah satu pasal diantara Pasal 53 dan Pasal 54 UU Nomor 38 Tahun 2004 tentang Jalan</span>
-                                </span>
-                            </li>
-
-                        </ol>
+                            <span class="bold text-success">Disahkan</span>
                         </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="ourwork">
+    <div class="container">
+        <div class="row mb-3">
+            <div class="col-md-12 col-sm-12 col-lg-12 col-xs-12">
+                <div class="card border-primary mb-3 shadow">
+                    <div class="card-header bg-success">
+                        <h5 class="text-white">DETAIL PERATURAN</h5>
+                    </div>
+                    <div class="card-body text-primary">
+                        <table class="table">
+                            <tbody>
+                                <tr>
+                                    <td width="200px">
+                                        Jenis
+                                    </td>
+                                    <td>
+                                        Undang - undang (UU)
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="200px">
+                                        Nomor
+                                    </td>
+                                    <td>
+                                        3
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="200px">
+                                        Tahun
+                                    </td>
+                                    <td>
+                                        2022
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="200px">
+                                        Judul
+                                    </td>
+                                    <td>
+                                        Undang-Undang (UU) tentang Pengawasan Eksekutif Mahasiswa Universitas Brawijaya
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="200px">
+                                        Ditetapkan Tanggal
+                                    </td>
+                                    <td>
+                                        26 Mei 2022
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="200px">
+                                        Diundangkan Tanggal
+                                    </td>
+                                    <td>
+                                        26 Mei 2022
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-md-12 col-sm-12 col-lg-12 col-xs-12">
+                <div class="card border-primary mb-3 shadow">
+                    <div class="card-header">
+                        <h5 class="text-success" >FILE-FILE PERATURAN
+                        </h5>
+                    </div>
+                    <div class="card-body text-primary">
+                        <table class="table">
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        UU LKM UB NOMOR 3 TAHUN 2022
+                                    </td>
+                                    <td>
+                                        <a href="https://drive.google.com/file/d/1kWlYJ2HqRMraUHy-_y7y5pvMDTOXkcJd/view?usp=sharing" target="_blank"><i class="fa fa-download"></i> Download</a>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p class="text-danger">* Klik pada nama file untuk melakukan pratinjau atau klik pada tombol download untuk mengunduh.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-md-12 col-sm-12 col-lg-12 col-xs-12">
+                <div class="card border-primary mb-3 shadow">
+                    <div class="card-header">
+                        <h5 class="text-success">STATUS
+                        </h5>
+                    </div>
+                    <div class="card-body">
+                        <h6 class="text-success"></h6>
                         <p>
-                            <span class="bold text-success">Mencabut :</span>
-                        <ol type="a">
-                            <li class="text-left font-sm">
-                                <span>
-                                    <a class="text-danger" href="/Home/Details/46996/uu-no-3-tahun-1982">UU No. 3 Tahun 1982</a> <span class="text-muted">tentang</span> Wajib Daftar Perusahaan
-                                    <br /><span class="font-blue-oleo"></span>
-                                </span>
-                            </li>
-
-                            <li class="text-left font-sm">
-                                <span>
-                                    Staatsblad Tahun 1926 Nomor 226 juncto Staatsblad Tahun 1940 Nomor 450 tentang Undang-Undang Gangguan (Hinderordonnantie)
-                                    <br /><i class="font-blue-oleo"></i>
-                                </span>
-                            </li>
-                        </ol>
+                            <span class="bold text-success">Disahkan</span>
                         </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="ourwork">
+    <div class="container">
+        <div class="row mb-3">
+            <div class="col-md-12 col-sm-12 col-lg-12 col-xs-12">
+                <div class="card border-primary mb-3 shadow">
+                    <div class="card-header bg-success">
+                        <h5 class="text-white">DETAIL PERATURAN</h5>
+                    </div>
+                    <div class="card-body text-primary">
+                        <table class="table">
+                            <tbody>
+                                <tr>
+                                    <td width="200px">
+                                        Jenis
+                                    </td>
+                                    <td>
+                                        Undang - undang (UU)
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="200px">
+                                        Nomor
+                                    </td>
+                                    <td>
+                                        4
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="200px">
+                                        Tahun
+                                    </td>
+                                    <td>
+                                        2022
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="200px">
+                                        Judul
+                                    </td>
+                                    <td>
+                                        Undang-Undang (UU) tentang Pengenalan Kehidupan Kampus Bagi Mahasiswa Baru Universitas Brawijaya
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="200px">
+                                        Ditetapkan Tanggal
+                                    </td>
+                                    <td>
+                                        18 Juni 2022
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="200px">
+                                        Diundangkan Tanggal
+                                    </td>
+                                    <td>
+                                        18 Juni 2022
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-md-12 col-sm-12 col-lg-12 col-xs-12">
+                <div class="card border-primary mb-3 shadow">
+                    <div class="card-header">
+                        <h5 class="text-success" >FILE-FILE PERATURAN
+                        </h5>
+                    </div>
+                    <div class="card-body text-primary">
+                        <table class="table">
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        UU LKM UB NOMOR 4 TAHUN 2022
+                                    </td>
+                                    <td>
+                                        <a href="https://drive.google.com/file/d/1MkxYG8klG5dkFgE_AhV0TbDMveSQORh3/view?usp=sharing" target="_blank"><i class="fa fa-download"></i> Download</a>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p class="text-danger">* Klik pada nama file untuk melakukan pratinjau atau klik pada tombol download untuk mengunduh.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-md-12 col-sm-12 col-lg-12 col-xs-12">
+                <div class="card border-primary mb-3 shadow">
+                    <div class="card-header">
+                        <h5 class="text-success">STATUS
+                        </h5>
+                    </div>
+                    <div class="card-body">
+                        <h6 class="text-success"></h6>
                         <p>
-                            <span class="bold text-success">Mengubah :</span>
-                        <ol type="a">
-                            <li class="text-left font-sm">
-                                <span>
-                                    <a class="text-danger" href="/Home/Details/138909/uu-no-3-tahun-2020">UU No. 3 Tahun 2020</a> <span class="text-muted">tentang</span> Perubahan atas Undang-Undang Nomor 4 Tahun 2009 tentang Pertambangan Mineral dan Batubara
-                                    <br /><span class="font-blue-oleo"></span>
-                                </span>
-                            </li>
-                            <li class="text-left font-sm">
-                                <span>
-                                    <a class="text-danger" href="/Home/Details/106346/uu-no-8-tahun-2019">UU No. 8 Tahun 2019</a> <span class="text-muted">tentang</span> Penyelenggaraan Ibadah Haji dan Umrah
-                                    <br /><span class="font-blue-oleo"></span>
-                                </span>
-                            </li>
-                        </ol>
+                            <span class="bold text-success">Disahkan</span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="ourwork">
+    <div class="container">
+        <div class="row mb-3">
+            <div class="col-md-12 col-sm-12 col-lg-12 col-xs-12">
+                <div class="card border-primary mb-3 shadow">
+                    <div class="card-header bg-success">
+                        <h5 class="text-white">DETAIL PERATURAN</h5>
+                    </div>
+                    <div class="card-body text-primary">
+                        <table class="table">
+                            <tbody>
+                                <tr>
+                                    <td width="200px">
+                                        Jenis
+                                    </td>
+                                    <td>
+                                        Undang - undang (UU)
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="200px">
+                                        Nomor
+                                    </td>
+                                    <td>
+                                        5
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="200px">
+                                        Tahun
+                                    </td>
+                                    <td>
+                                        2022
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="200px">
+                                        Judul
+                                    </td>
+                                    <td>
+                                        Undang-Undang (UU) tentang Pemilihan Mahasiswa Raya Lembaga Kedaulatan Mahasiswa Universitas Brawijaya
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="200px">
+                                        Ditetapkan Tanggal
+                                    </td>
+                                    <td>
+                                        14 November 2022
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td width="200px">
+                                        Diundangkan Tanggal
+                                    </td>
+                                    <td>
+                                        14 November 2022
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-md-12 col-sm-12 col-lg-12 col-xs-12">
+                <div class="card border-primary mb-3 shadow">
+                    <div class="card-header">
+                        <h5 class="text-success" >FILE-FILE PERATURAN
+                        </h5>
+                    </div>
+                    <div class="card-body text-primary">
+                        <table class="table">
+                            <tbody>
+                                <tr>
+                                    <td>
+                                        UU LKM UB NOMOR 5 TAHUN 2022
+                                    </td>
+                                    <td>
+                                        <a href="https://drive.google.com/file/d/1fbcr_u6m1qUqvIL2aFnYpaT4HRUTjQRi/view?usp=sharing" target="_blank"><i class="fa fa-download"></i> Download</a>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                        <p class="text-danger">* Klik pada nama file untuk melakukan pratinjau atau klik pada tombol download untuk mengunduh.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row mb-3">
+            <div class="col-md-12 col-sm-12 col-lg-12 col-xs-12">
+                <div class="card border-primary mb-3 shadow">
+                    <div class="card-header">
+                        <h5 class="text-success">STATUS
+                        </h5>
+                    </div>
+                    <div class="card-body">
+                        <h6 class="text-success"></h6>
+                        <p>
+                            <span class="bold text-success">Disahkan</span>
                         </p>
                     </div>
                 </div>
